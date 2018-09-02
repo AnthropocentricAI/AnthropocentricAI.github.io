@@ -1,0 +1,33 @@
+# Site settings
+title: AnthropocentricAI
+brief-intro: Artificial Intelligence for Humans
+description_footer: Artificial Intelligence designed for Humans!
+
+baseurl: ""  # webpage subpath
+url: "https://anthropocentricai.github.io"  # hostname & protocol
+
+paginate_path: /blog/page:num/
+permalink: /blog/:year/:month/:day/:title/
+paginate: 6
+
+category_dir: blog/category/
+tag_dir: blog/tag/
+archive_dir: blog/archive/
+
+excerpt_separator: <!--more-->
+
+#email: none
+#twitter_username: none
+github_username: AnthropocentricAI
+
+#disqus_shortname: none
+
+#google_analytics_id: none # google analytics id
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins: [jekyll-paginate]
