@@ -13,18 +13,18 @@ The two main differences between open source licences are whether they are copyl
 
 ## Copyleft vs Permissive ##
 
-### Pros of copyleft: ##
+### Pros of copyleft ##
 * Any derivative works must make the source code available, these modifications might be useful to incorporate into our package.
 * Forces future usage to remain free and open to the public to modify.
 
-### Cons of copyleft: ###
+### Cons of copyleft ###
 * Could deter people from using or modifying if they don't want to make derivative work available, especially if using a strong copyleft licence which forces any linked work to be under copyleft licence not just derivatives of copyleft code.
 
-### Pros of permissive: ###
+### Pros of permissive ###
 * Can add proprietary features if needed.
 * Developers are more likely to use and make modifications, since they aren't forced to publish derivative source code.
 
-### Cons of permissive: ###
+### Cons of permissive ###
 * Other developers could be unwilling to contribute if they think it will be used to commercial gain at a later date, or are set on the copyleft ideology.
 * Any derivative works are not forced to be made available.
 
@@ -33,7 +33,7 @@ The two main differences between open source licences are whether they are copyl
 There are two types of copyleft, weak and strong. Weak copyleft is usually used for software libraries as it allows other software to link to the library, meaning that only changes to the weak-copylefted software itself become subject to the copyleft provisions, not the linked libraries. Strong copyleft ensures that all code linked to the strong copyleft code has the same strong copyleft licensing.
 
 
-## Open Source Initiative Popular Copyleft Licences: ##
+## Open Source Initiative Popular Copyleft Licences ##
 ### [GNU GPLv3](https://opensource.org/licenses/GPL-3.0) — fifth most popular licence on GitHub (9%) ###
 A strong copyleft licence, meaning that any modification made to the source code needs to be made available and published with the same GPLv3 licensing. This means that it is incompatible with BSD-licensed code ie. NumPy, SciPy etc.
 
@@ -50,7 +50,7 @@ A weak copyleft that is compatible with GPLv3, which allows derivative works to 
 A weak copyleft, that can be made compatible with GPLv3. Only the EPL modified code has to be released under EPL licence, even if full programme is released under a different licence.
 
 
-## Open Source Initiative Popular Permissive Licences: ##
+## Open Source Initiative Popular Permissive Licences ## 
 ### [Apache Licence 2.0](https://opensource.org/licenses/Apache-2.0) — fourth most popular licence on GitHub (11%) ###
 Allows sub-licensing and contains patent protection, which describes the rights to practice patent claims of contributors to the code. Any significant changes to the Apache source code must be stated to the authors, but the source code does not need to be published.
 
@@ -68,7 +68,7 @@ Fully turning over to the public domain, with a no-warranty statement.
 ## BSD vs MIT ##
 BSD and MIT are compact and simple licences, with the 2 clause BSD and MIT licences being very similar. However the MIT licence explicitly allows merging, publishing, sub-licensing and selling, whereas BSD only implies implies merging, publishing and selling under its permission of redistribution. This makes the MIT licence more attractive due to its unambiguity. However, one reason the 3-clause BSD might be suitable for our package is simply because it is the licence used by scikit learn.
 
-### Package Licences ###
+## Package Licences ##
 * NumPy -- BSD 3 Clause
 * SciPy -- BSD 3 Clause
 * Shap -- MIT
