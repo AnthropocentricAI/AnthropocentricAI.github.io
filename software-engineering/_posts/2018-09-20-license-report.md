@@ -69,12 +69,12 @@ Fully turning over to the public domain, with a no-warranty statement.
 BSD and MIT are compact and simple licences, with the 2 clause BSD and MIT licences being very similar. However the MIT licence explicitly allows merging, publishing, sub-licensing and selling, whereas BSD only implies implies merging, publishing and selling under its permission of redistribution. This makes the MIT licence more attractive due to its unambiguity. However, one reason the 3-clause BSD might be suitable for our package is simply because it is the licence used by scikit learn.
 
 ## Package Licences ##
-* NumPy -- BSD 3 Clause
-* SciPy -- BSD 3 Clause
-* Shap -- MIT
-* Skater -- MIT
-* eli5 -- MIT
-* FairTest -- Apache 2.0
-* BlackBoxAuditing -- Apache 2.0
-* FairML -- MIT
-* FairLearn -- MIT
+* NumPy - BSD 3 Clause
+* SciPy - BSD 3 Clause
+* Shap - MIT
+* Skater - MIT
+* eli5 - MIT
+* FairTest - Apache 2.0
+* BlackBoxAuditing - Apache 2.0
+* FairML - MIT
+* FairLearn - MIT
