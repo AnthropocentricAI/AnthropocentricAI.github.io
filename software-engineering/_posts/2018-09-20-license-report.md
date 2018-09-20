@@ -9,9 +9,9 @@ author: Matt Clifford
 * content
 {:toc}
 
-The two main differences between open source licences are whether they are copyleft or permissive.
-
 ## Copyleft vs Permissive ##
+
+The two main differences between open source licences are whether they are copyleft or permissive.
 
 ### Pros of copyleft ##
 * Any derivative works must make the source code available, these modifications might be useful to incorporate into our package.
