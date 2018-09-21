@@ -9,6 +9,8 @@ author: Matt Clifford
 * content
 {:toc}
 
+Open source licensing comparison report.<!--more-->
+
 ## Copyleft vs Permissive ##
 
 The two main differences between open source licences are whether they are copyleft or permissive.
