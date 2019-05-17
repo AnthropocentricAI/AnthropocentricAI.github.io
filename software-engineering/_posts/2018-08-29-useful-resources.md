@@ -21,7 +21,7 @@ A list of useful resources for software engineering.<!--more-->
     - [TravisCI](https://travis-ci.org/)
     - [CircleCI](https://circleci.com/)
 * Git intro: [link](https://www.sitepoint.com/using-git-open-source-projects/)
-* How to develop open source: [link](https://www.sitepoint.com/getting-started-git-team-environment/)
+* How to develop open source: [link](https://www.sitepoint.com/getting-started-git-team-environment/) and [link](https://guides.github.com/introduction/flow/)
 * Code review: [link](https://www.atlassian.com/agile/software-development/code-reviews)
 * Documentation:
     - [reStructuredText](http://docutils.sourceforge.net/docs/user/rst/quickstart.html) -- a markup language used for writing documentation
